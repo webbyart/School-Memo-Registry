@@ -1,0 +1,5 @@
+{
+  "name": "School Memo Registry",
+  "description": "A single-page application to manage, track, and visualize school memos with filtering and statistical analysis.",
+  "requestFramePermissions": []
+}
